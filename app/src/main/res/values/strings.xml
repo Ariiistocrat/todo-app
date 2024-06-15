@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Планировщик</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="next_tasks">Предстоящие задачи</string>
+    <string name="completed_tasks">Завершенные задачи</string>
+    <string name="create_task">Создание задачи</string>
+    <string name="description">Описание</string>
+    <string name="category">Категория</string>
+    <string name="create">Создать</string>
+    <string name="priority">Приоритет</string>
+    <string name="home_page">Главная</string>
+    <string name="completed_page">Завершенное</string>
+    <string name="update">Обновить</string>
+    <string name="warning_create_task">Введите хотя бы описание</string>
+    <string name="select_time">Выбрать время</string>
+    <string name="change_theme">Смена оформления</string>
+</resources>
